@@ -1,0 +1,26 @@
+#apps{
+    background-color: rgb(136, 190, 236);
+}
+#jogos{
+    background-color: rgb(0, 238, 107);
+}
+#chatbot{
+    background-color: rgb(211, 120, 55);
+}
+body{
+    text-align: center;
+}
+h1{
+ color: rgb(170, 50, 3);
+ font-size: 50px;
+ font-family: monospace;
+}
+img{
+    margin: auto;
+}
+h5{
+    color: black;
+}
+p{
+    color: black;
+}
